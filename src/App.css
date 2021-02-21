@@ -1,0 +1,40 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat+Alternates:wght@700&family=Montserrat:wght@400;700&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #f3f3f3;
+}
+
+.todo-app {
+  max-width: 40vw;
+}
+
+.todo-app h1 {
+  text-align: center;
+  color: teal;
+}
+
+@media (max-width: 800px) {
+  .todo-app h1 {
+    font-size: 40px;
+  }
+
+  .todo-app {
+    max-width: 70vw;
+  }
+}
+
+@media (max-width: 500px) {
+  .todo-app h1 {
+    font-size: 35px;
+  }
+
+  .todo-app {
+    max-width: 90vw;
+  }
+}
