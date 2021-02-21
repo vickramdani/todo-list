@@ -1,6 +1,8 @@
 # Todo List App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and styled with materialize-css.
+
+You access here [https://personal-todo.netlify.app/](https://personal-todo.netlify.app/)
 
 ## Available Scripts
 
